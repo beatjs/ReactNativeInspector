@@ -1,0 +1,16 @@
+PODS:
+  - ReactNativeInspector (0.1.0)
+
+DEPENDENCIES:
+  - ReactNativeInspector (from `../`)
+
+EXTERNAL SOURCES:
+  ReactNativeInspector:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ReactNativeInspector: 274dcd5cba8b08780fd255c7c291d159f88afd1c
+
+PODFILE CHECKSUM: c378ce2632a62b2644b005398c29da0841984ab0
+
+COCOAPODS: 1.10.1

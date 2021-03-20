@@ -1,0 +1,6 @@
+framework module jsinspector {
+  umbrella header "ReactNativeInspector-umbrella.h"
+
+  export *
+  module * { export * }
+}
